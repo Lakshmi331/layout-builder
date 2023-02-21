@@ -1,0 +1,14 @@
+.footer-container {
+  align-self: stretch;
+  text-align: center;
+  background-color: #cbd5e1;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.footer-text {
+  font-size: 20px;
+  color: #475569;
+  font-family: 'Roboto';
+  font-weight: 600;
+}
